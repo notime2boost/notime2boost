@@ -1,6 +1,6 @@
-## Hi there 👋
 
-# Hi there, I'm Christopher Jean! 👋
+
+## Hi there, I'm Christopher Jean! 👋
 
 ## 🚀 About Me
 I'm a **Computer Engineer** with a passion for creating, developing, and troubleshooting **hardware and software systems**. I specialize in **system analysis, programming, and technical support**. My goal is to use technology to drive innovation and efficiency.
